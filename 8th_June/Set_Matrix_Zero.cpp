@@ -13,6 +13,8 @@ public:
           }
         }
 
+
+    // Set 0
      for(auto &i : vt){
 		int x = i.first;
 		int y = i.second;
